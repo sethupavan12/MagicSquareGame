@@ -1,5 +1,5 @@
 # MagicSquareGame
-A Magic Square game that could generate Magic Sqaures of size n*n when give n as an input. The game can also give player a randomly generated sqaure so that the player can make use of his extremely powerful computational organ(Brain) to convert the given sqaure into a Magic Sqaure.
+A Magic Square game that could generate Magic Squares of size n*n when give n as an input. The game can also give player a randomly generated Square so that the player can make use of his extremely powerful computational organ(Brain) to convert the given square into a Magic Square.
 
 
 # What is a Magic Sqaure?
